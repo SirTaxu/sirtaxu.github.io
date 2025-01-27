@@ -1,5 +1,6 @@
-title: Sir Taxu's tools
+#title: Sir Taxu's tools
 #logo:
-#description: tiny tools for personal use, work in progress
+\n
+description: tiny tools for personal use, work in progress
 #show_downloads: true
-theme: jekyll-theme-windows95
+theme: jekyll-theme-minimal
