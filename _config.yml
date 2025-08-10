@@ -5,7 +5,7 @@ description: >-
 url: "https://sirtaxu.github.io" # replace username
 baseurl: ""
 
-remote_theme: cotes2020/jekyll-theme-chirpy
+theme: jekyll-theme-chirpy
 
 plugins: []
    
