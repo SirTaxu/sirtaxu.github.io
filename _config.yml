@@ -1,5 +1,13 @@
 title: Tiny tools
 #logo:
 description: tiny tools for personal use, work in progress
-#show_downloads: false
-theme: jekyll-theme-windows95
+
+remote_theme: cotes2020/jekyll-theme-chirpy
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+markdown: kramdown
+paginate: 5
+paginate_path: "/page:num/"
