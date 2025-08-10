@@ -7,11 +7,7 @@ baseurl: ""
 
 remote_theme: cotes2020/jekyll-theme-chirpy
 
-plugins:
-  - jekyll-remote-theme
-  - jekyll-seo-tag
-  - jekyll-sitemap
-   - jekyll-feed
+plugins: []
    
 lang: en
 markdown: kramdown
