@@ -35,3 +35,9 @@ nav:
     url: "/about/"
   - title: "Projects"
     url: "/projects/"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
