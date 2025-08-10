@@ -1,8 +1,12 @@
-title: Tiny tools
-#logo:
-description: tiny tools for personal use, work in progress
+title: Taxu
+tagline: Small tools for personal use
+description: >-
+  A personal website powered by the Chirpy Jekyll theme.
+url: "https://sirtaxu.github.io" # replace username
+baseurl: ""
 
 remote_theme: cotes2020/jekyll-theme-chirpy
+
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
@@ -11,3 +15,23 @@ plugins:
 markdown: kramdown
 paginate: 5
 paginate_path: "/page:num/"
+
+profile:
+  name: "Taxu"
+  avatar: "/assets/images/avatar.png"
+  bio: "Short bio or tagline"
+  email: "giordanomaxi@gmail.com
+  location: "Argentina"
+
+social:
+  github: "sirtaxu"
+
+
+# navigation: add or remove pages listed here
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
+  - title: "Projects"
+    url: "/projects/"
